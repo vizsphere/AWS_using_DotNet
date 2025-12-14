@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/DynamoDb/">
+    <Project Path="DynamoDb/CustomerApi_using_DynamoDb/CustomerApi_using_DynamoDb/CustomerApi_using_DynamoDb.csproj" />
+  </Folder>
+  <Folder Name="/Lambda/">
+    <Project Path="Lambda/AWSLambdaFun/AWSLambdaFun.csproj" />
+  </Folder>
+  <Folder Name="/Lambda/REST_Api_Lambda/">
+    <Project Path="Lambda/REST_Api_Lambda/Speakers/Speakers.csproj" />
+    <Project Path="Lambda/REST_Api_Lambda/Speakers_Lambda/src/Speakers_Lambda/Speakers_Lambda.csproj" />
+    <Project Path="Lambda/REST_Api_Lambda/Speakers_MinimalLambda/src/Speakers_MinimalLambda/Speakers_MinimalLambda.csproj" />
+  </Folder>
+  <Folder Name="/SNS/" />
+  <Folder Name="/SQS/">
+    <Project Path="SQS/Consumer/Consumer.csproj" />
+    <Project Path="SQS/Messages/Messages.csproj" />
+    <Project Path="SQS/Publisher/Publisher.csproj" />
+  </Folder>
+</Solution>

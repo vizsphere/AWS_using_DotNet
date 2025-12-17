@@ -25,3 +25,10 @@
 /AWS_using_DotNet/SQS/Messages/obj
 /AWS_using_DotNet/SQS/Publisher/obj
 /AWS_using_DotNet/SQS/Publisher/bin/Debug/net10.0
+/AWS_using_DotNet/.vs
+/AWS_using_DotNet/SharedLayer/bin
+/AWS_using_DotNet/SharedLayer/layer/bin/net8.0
+/AWS_using_DotNet/SharedLayer/obj
+/AWS_using_DotNet/SharedLayer/Properties/PublishProfiles
+/AWS_using_DotNet/SharedLayer/layer.zip
+*.user

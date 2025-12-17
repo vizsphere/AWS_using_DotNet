@@ -5,6 +5,9 @@
   <Folder Name="/Lambda/">
     <Project Path="Lambda/AWSLambdaFun/AWSLambdaFun.csproj" />
   </Folder>
+  <Folder Name="/Lambda/Layers/">
+    <Project Path="SharedLayer/SharedLayer.csproj" Id="7ce53a76-8da2-46ca-82e1-268bac60204c" />
+  </Folder>
   <Folder Name="/Lambda/REST_Api_Lambda/">
     <Project Path="Lambda/REST_Api_Lambda/Speakers/Speakers.csproj" />
     <Project Path="Lambda/REST_Api_Lambda/Speakers_Lambda/src/Speakers_Lambda/Speakers_Lambda.csproj" />

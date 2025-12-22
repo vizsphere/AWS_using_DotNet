@@ -32,3 +32,8 @@
 /AWS_using_DotNet/SharedLayer/Properties/PublishProfiles
 /AWS_using_DotNet/SharedLayer/layer.zip
 *.user
+/AWS_using_DotNet/Lambda/Layers/SharedLayer/bin
+/AWS_using_DotNet/Lambda/Layers/SharedLayer/obj
+/AWS_using_DotNet/Lambda/Layers/SharedLayer/layer/bin/net8.0
+/AWS_using_DotNet/Lambda/Layers/SharedLayer/Properties/PublishProfiles
+*.zip
